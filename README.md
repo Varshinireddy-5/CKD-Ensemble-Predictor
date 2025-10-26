@@ -129,18 +129,6 @@ It will automatically:
 | Stacking (LogReg Meta) | 98.0%     | 98.0%             | 0.98      |
 | Stacking (LGBM Meta)   | **99.2%** | **99.2%**         | **0.992** |
 
----
-
-## 📁 Repository Structure
-
-```
-📂 CKD_PREDICTION/
-│
-├── 📘 MiniProject File.ipynb     # Main Jupyter Notebook
-├── 📂 data/                    # Raw and processed datasets
-├── 📂 images/                 # Evaluation reports and metrics
-├── requirements.txt            # Python dependencies                
-```
 
 ---
 
@@ -161,4 +149,5 @@ It will automatically:
 📧 [varshinireddy724@gmail.com](mailto:varshinireddy724@gmail.com)  
 
 ---
+
 
